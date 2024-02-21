@@ -1,3 +1,16 @@
+/* barra de administracion abajo */
+body.admin-bar { margin-top: -32px; padding-bottom: 28px; }
+body.admin-bar #wphead {padding-top: 0;}
+/body.admin-bar #footer {padding-bottom: 28px;}/
+#wpadminbar { top: auto !important;bottom: 0;}
+#wpadminbar .quicklinks .menupop .ab-sub-wrapper { bottom: 28px;}
+#wpadminbar .quicklinks .menupop ul { bottom: 0;}
+@media screen and (max-width: 600px){ 
+  #wpadminbar { position: fixed; }
+}
+/* barra de administracion abajo */
+
+
 body.page-id-150 #site-header,
 body.page-id-150 #site-content header.entry-header,
 body.page-id-150 #site-content .sharedaddy  {
