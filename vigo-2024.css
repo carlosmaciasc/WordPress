@@ -28,12 +28,19 @@
       position: relative;
       margin-block: 0 auto;
       font-size: 30px;
-      font-weight: 700;
+      font-weight: 600;
       text-transform: uppercase;
       top: 40px;
     }
+    #welcome h1:before {
+
+    }
     #welcome h2 {
+      position: relative;
       margin-block: auto 0
+      font-size: 30px;
+      font-weight: 400;
+      text-transform: uppercase;
     }
     #welcome img {
       margin-block: auto;
