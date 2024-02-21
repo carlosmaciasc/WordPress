@@ -1,9 +1,13 @@
 #welcome {
   position: absolute;
   display: block;
+  margin: 0;
+  padding: 0;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
+  max-width: none;
   background-color: #ccc;
+  z-index: 10;
 }
