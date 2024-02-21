@@ -1,1 +1,8 @@
-body { border: 10px solid #c00;}
+#welcome {
+  position: relative;
+  display: block;
+  with: 100vw;
+  height: 100vh;
+
+  background-color: #ccc;
+}
