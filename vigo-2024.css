@@ -8,6 +8,9 @@
   width: 100vw;
   height: 100vh;
   max-width: none;
-  background-color: #ccc;
+  background-color: #fff;
+  background-image: url(https://wordcamp.wpvigo.com/2024/images/2024.png);
+  background-position: right 0 top 0;
+  background-size: contain;
   z-index: 10;
 }
