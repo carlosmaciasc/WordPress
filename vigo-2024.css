@@ -26,10 +26,11 @@
   }
     #welcome h1 {
       position: relative;
-      margin-block: 0 auto!important;
-      font-size: 30px;
+      margin: 0 0 auto auto!important;
+      font-size: 25px;
       font-weight: 600;
       text-transform: uppercase;
+      font-family: Montserrat;
       top: 40px;
     }
     #welcome h1:before {
@@ -37,10 +38,11 @@
     }
     #welcome h2 {
       position: relative;
-      margin-block: auto 0!important;
-      font-size: 30px;
+      margin: auto auto 0 auto!important;
+      font-size: 25px;
       font-weight: 400;
       text-transform: uppercase;
+      font-family: Montserrat;
     }
     #welcome figure {
       margin: auto auto auto 0!important;
