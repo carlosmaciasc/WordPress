@@ -35,7 +35,7 @@ body.page-id-150 #site-content .sharedaddy  {
   }
     #welcome h1 {
       position: relative;
-      margin: 15px 0 auto auto!important;
+      margin: 15px auto auto 0!important;
       font-size: 25px;
       font-weight: 600;
       text-transform: uppercase;
@@ -47,7 +47,7 @@ body.page-id-150 #site-content .sharedaddy  {
     }
     #welcome h2 {
       position: relative;
-      margin: auto auto 45px auto!important;
+      margin: auto auto 45px 0!important;
       font-size: 25px;
       font-weight: 400;
       text-transform: uppercase;
