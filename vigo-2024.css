@@ -12,5 +12,6 @@
   background-image: url(https://wordcamp.wpvigo.com/2024/images/2024.png);
   background-position: right 0 top 0;
   background-size: contain;
+  background-repeat: no-repeat;
   z-index: 10;
 }
