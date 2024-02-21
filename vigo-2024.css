@@ -1,8 +1,9 @@
 #welcome {
-  position: relative;
+  position: absolute;
   display: block;
+  top: 0;
+  left: 0;
   with: 100vw;
   height: 100vh;
-
   background-color: #ccc;
 }
