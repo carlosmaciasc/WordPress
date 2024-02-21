@@ -26,15 +26,15 @@
   }
     #welcome h1 {
       position: relative;
-      margin: 0 0 auto auto;
+      margin-block: 0 auto;
       font-size: 30px;
       font-weight: 700;
       text-transform: uppercase;
       top: 40px;
     }
     #welcome h2 {
-      margin: auto auto 0 0
+      margin-block: auto 0
     }
     #welcome img {
-      margin: auto auto auto 0;
+      margin-block: auto;
     }
