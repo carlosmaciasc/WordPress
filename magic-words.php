@@ -1,3 +1,4 @@
+<?php 
 function cmmyth_magic_words( $content ) 
 {     
     if ( strpos( $content, '{current_single_content}' ) !== false ) 
