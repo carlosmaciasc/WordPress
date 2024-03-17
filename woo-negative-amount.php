@@ -1,3 +1,4 @@
+<?php 
 /*
 Removes taxes from AddFee if is a negative amount
 */
